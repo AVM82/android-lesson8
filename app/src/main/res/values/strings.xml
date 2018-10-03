@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson8</string>
+    <string name="title_first_fragment">First fragment</string>
+    <string name="title_second_fragment">Second fragment</string>
+    <string name="title_third_fragment">Third fragment</string>
+    <string name="title_fragment">FRAGMENT</string>
+    <string name="change_color_menu_title">Set random color</string>
+</resources>
